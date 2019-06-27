@@ -3,7 +3,7 @@
 
 Link to project: https://nytpage.netlify.com
 
-![Image of NYT](images/nyt.png)
+![Image of NYT](images/NY.png)
 
 
 
