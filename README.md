@@ -1,2 +1,1 @@
-![Image of NYT]
-(images/nyt.png)
+![Image of NYT](images/nyt.png)
