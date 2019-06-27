@@ -1,2 +1,2 @@
-# personal-projects
-These are a collection of my personal projects that I have taken on.
+![Image of Yaktocat]
+(https://github.com/Dionne-Rodriguez/New-York-Times/blob/master/images/nyt.png)
